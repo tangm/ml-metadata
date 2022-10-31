@@ -104,7 +104,7 @@ cc_library(
         ":query_executor",
         ":record_parsing_utils",
         "@com_google_protobuf//:protobuf",
-        
+
         "@com_google_absl//absl/algorithm:container",
         "@com_google_absl//absl/container:flat_hash_map",
         "@com_google_absl//absl/container:flat_hash_set",
